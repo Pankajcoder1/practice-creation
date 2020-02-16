@@ -1,10 +1,14 @@
-# practice-creation
-## This file contain code of dily practice(mostly competitive) in different language.   
+###  This repo is to maintain code of only practice of competitive conding on differnet platform.
+---
+### coding platform
+  1. Hackerearth.  [view profile](https://www.hackerearth.com/@pankaj1289)
+
+---
 ### Language:
 * c
 * python
 * java
 * c++
 ---
-### coding platform
-  1. Hackerearth.
+#### About
+> Mostly code written in c++ language only.
