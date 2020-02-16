@@ -4,11 +4,5 @@
   1. Hackerearth.  [view profile](https://www.hackerearth.com/@pankaj1289)
 
 ---
-### Language:
-* c
-* python
-* java
-* c++
----
 #### About
 > Mostly code written in c++ language only.
