@@ -1,3 +1,2 @@
 ### About this course
-> Actually I did not enroll for this course on [coursera](https://www.coursera.org/) but one of my friend enrolled. I just take his assignment(after its submission) and do practice.
-> Here I solved question on some topic.
+>This is an algorithm course on [coursera](https://www.coursera.org/). I solved its some of week's assignment for learning purpose.
