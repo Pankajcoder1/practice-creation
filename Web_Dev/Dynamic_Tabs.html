@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</head>
+<body>
+  <!-- nav tabs -->
+  <div class="container">
+    <ul class="nav nav-pills">
+      <li class="nav-item">
+        <a href="#home" data-toggle="tab" class="nav-link active">Home</a>
+      </li>
+
+      <li class="nav-item">
+        <a href="#discuss" data-toggle="tab" class="nav-link">Discussion</a>
+      </li>
+
+      <li class="nav-item">
+        <a href="#about" data-toggle="tab" class="nav-link">About</a>
+      </li>
+    </ul>
+
+    <!-- tabs -->
+    <div class="tab-content container" style="margin-top: 15px;">
+      <div id="home" class="tab-pane active jumbotron">
+        This is home section.
+      </div>
+
+      <div id="discuss" class="tab-pane fade jumbotron">
+        This is discussion section.
+      </div>
+
+      <div id="about" class="tab-pane fade jumbotron">
+        This is About section.
+      </div>
+    </div>
+  </div>
+</body>
+</html>
